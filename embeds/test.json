@@ -1,0 +1,15 @@
+{
+    "embeds": [
+        {
+            "url": "https://discord.com/channels/973921377667149924/1174133788083761152",
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://cdn.discordapp.com/attachments/1213935736529883236/1234923455225397288/Picsart_24-04-03_23-02-47-093.png?ex=66327f97&is=66312e17&hm=4ef84c24c03b523dd99dab9ca58572c46917107ceaa7278a638b21ed5dca96f7&"
+            },
+            "title": "Test Title",
+            "description": "Test Description"
+        }
+    ]
+}
