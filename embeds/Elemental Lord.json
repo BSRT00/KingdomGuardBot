@@ -25,7 +25,10 @@
                     "value": "Always do this event for the hero cards and heals.",
                     "inline": false
                 }
-            ]
+            ],
+            "image": {
+                "url": "https://i.imgur.com/kJxzuaw.jpeg"
+            }
         }
     ]
 }
