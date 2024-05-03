@@ -1,0 +1,39 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Frost Behemoth Information",
+            "description": "> **Duration**: 2 weeks\n> **Frequency**: Available 2 weeks every Broken Lands. Begins on the 2nd week of Broken Lands.\n> **Alternate Names**: Frost, Frosty, Frostie\n> **Event Type**: Player (against Broken Lands)\n> **Note**: Only available if you are in Broken Lands.",
+            "fields": [
+                {
+                    "name": "How It Works",
+                    "value": "The objective is to reach the highest possible level of Frost Behemoth.\n\nSelect the Frost Behemoth icon and summon it. You will have the option to ATTACK or RALLY. Select the option that is applicable based on the power of the Frost Behemoth. Attack costs 10AP (or less with AP heroes), while Rally costs 20AP (or less with AP heroes).\n\nAs you reach the higher levels of Frosty Behemoth and need to rally, you can set a power limit to the rally in order to pull stronger troops from your alliance to beat it. Using Quick Rally is another method to pull the troops at a faster pace. See #Tips&Tricks\n\nNote: If you do not manage to kill the Frost Behemoth, it will remain in place for 1 hour before it disappears.\n\nHow to set up a Rally Power Limit:\n1. Click on the Frost Behemoth.\n2. Click on the swords icon.\n3. Type the minimum power of troops you want entering your rally.\n4. Check the box if you want these settings to be applied for each rally (optional).",
+                    "inline": false
+                },
+                {
+                    "name": "Rewards",
+                    "value": "For each Frost Behemoth killed, you will receive 2000 points on your Broken Land’s Personal Scoreboard and Kingdom Scoreboard.\n\nAt the end of Broken Lands, you will also receive a personal reward based on your Frost ranking across the entire Broken Lands. Rewards differ over time and based on which season you are in.\n\n__Reward for Frosty Behemoth__",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "Always use AP-saving heroes (especially Miku) for attacking and rallying Frost Behemoths to save AP. Because the initial levels of Frost are very repetitive, many players use an auto clicker to get through those stages. At later stages, use Quick Rally to pull troops.",
+                    "inline": false
+                },
+                {
+                    "name": "Frosty Table",
+                    "value": "Last Update: 3/26/2024",
+                    "inline": false
+                }
+            ],
+            "image": {
+                "url": "https://i.imgur.com/kyuOmR4.jpeg"
+            }
+        }
+    ]
+}

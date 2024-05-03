@@ -1,0 +1,39 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Lava Cave Information",
+            "description": "> **Duration**: 5 days (Monday 0 UTC - Friday 23:59 UTC)\n> **Frequency**: Weekly\n> **Event Type**: Player/Alliance (against Server/Cross Server)",
+            "fields": [
+                {
+                    "name": "How It Works",
+                    "value": "There are a total of 50 levels. The objective is to finish all 50 levels at the fastest speed possible. To clear each level, the alliance has to kill the Boss Haka as quickly as possible.\n\nEach player starts with 12 move points and 12 attack points. You recover 1 move point & 1 attack point every 2 hours.\n\nMove points help to open blocks and break rocks, while attack points can attack monsters and the Boss Haka.\n\n__Monsters & Items__\n- Normal Monster (2/2)\n- Elite Monster (5/5)\n- Boss Haka (100/100)\n- Lightweight Feather: Allows you to turn over slates in a diagonal direction, but no pathway will be formed.\n- Exploration Note: Doubles the amount of points obtained by killing monsters.\n- Crystal Ball: Shows the exit on this floor.\n- Sledgehammer: Doubles the amount of contribution points obtained by breaking boulders.\n- Cave Map: Allows you to tap the icon to view all remaining incidents on this floor.",
+                    "inline": false
+                },
+                {
+                    "name": "Personal Point System",
+                    "value": "Gain 1 point for each attack and move you use on the map. Regain 1 attack and 1 move every 2 hours, up to 12 total each.\n\nGain 1 additional point for defeating monsters if Exploration Note is active.\nGain 1 additional point for finishing a boulder if the Sledgehammer is active.\nGain 1 additional point if you discover a monster under an unknown tile.\nGain 1 additional point for picking up any items on the map.",
+                    "inline": false
+                },
+                {
+                    "name": "Rewards",
+                    "value": "At the end of the event, you will receive a reward for your personal contribution within the alliance, the server rewards, and the cross server rewards (if you managed to complete all 50 levels and reach the top 100 cross server).",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "Being strategic about killing the small monsters doubles the efficiency of getting to the next stage. This should be prioritized.",
+                    "inline": false
+                }
+            ],
+            "image": {
+                "url": "https://i.imgur.com/JjQhr3H.jpeg"
+            }
+        }
+    ]
+}
