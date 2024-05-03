@@ -1,0 +1,14 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "# VIP Level and Perks",
+            "description": "> **Alternate Names**: VIP\n> **Event Type**: Player\n\n### How It Works\nSpend money and accrue points. Every $1 equates to 10 points.\n\nVIP 1 -10 Points\nVIP 2 - 50 Points\nVIP 3 - 200 Points\nVIP 4 - 500 Points\nVIP 5 - 1K Points\nVIP 6 - 2K Points\nVIP 7 - 5K Points\nVIP 8 - 10K Points\nVIP 9 - 20K Points\nVIP 10 - 35K Points\nVIP 11 - 50K Points\nVIP 12 - 70K Points\nVIP 13 - 100K Points\nVIP 14 - 150K Points\nVIP 15 - 200K Points\nVIP 16 - 300k points\nVIP 17 - 500k points\nVIP 18 - 750k points\nVIP 19 - 1.2m points"
+        }
+    ]
+}
