@@ -1,0 +1,29 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Summon Altar Information",
+            "fields": [
+                {
+                    "name": "How It Works",
+                    "value": "Use Magic Books in the Summon Altar to summon monsters and use summoning spells to level up the monster. There are currently 8 summons available.\n\nWhen you obtain enough magic books to summon a stronger monster, use the DISMANTLE option to take back your summoning spells and use them on the new monster. **You will not lose any resources doing this.**\n\nMagic Books and Summoning Spell: Available for purchase. Can also be found in Dimensional Tunnel and as a reward for certain events.\n\nMarching Skin: The deployed marching skin has no impact on your power and can differ from the deployed monster in Summon Altar. Go to the Skins tab to change the troop skin.\n",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "Do not purchase summons at full price. The price drops significantly over time and they will also be released as rewards and in the Dimensional Tunnel.",
+                    "inline": false
+                }
+            ],
+            "description": "**Event Type**: Player\n**Note**: Summons are made available to servers over time. Newer servers may not have all summons available.",
+            "image": {
+                "url": "https://i.imgur.com/5IPNweX.jpg"
+            }
+        }
+    ]
+}

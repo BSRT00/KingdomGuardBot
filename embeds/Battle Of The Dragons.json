@@ -1,0 +1,55 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Battle of the Dragon Information",
+            "description": "> **Duration**: 45 minutes\n> **Frequency**: Once a week. Every Friday.\n> **Alternate Names**: Dragon Battle, BotD, BOD, Dragon\n> **Event Type**: Player/Alliance/Server/Cross Server\n> **Note**:\n*Duration of Event*: 45 minutes\n*Max number of participants*: 30 players per alliance\n",
+            "fields": [
+                {
+                    "name": "Sign Ups",
+                    "value": "R5 and R4s can register the alliance for this event\nAlliance leaders will choose the time that the event takes place from the options of: 01:00, 07:00, 13:00 or 17:00 UTC\nOnce the time is selected you have till reset (0:00 UTC) to select which members will participate\nUp to 30 members can participate in the event\nYou must be added by R5 or an R4 to the event in order to join",
+                    "inline": false
+                },
+                {
+                    "name": "The Battle",
+                    "value": "This event is alliance versus alliance and matching is based on the total power signed up for the event in each alliance.\nWin rate and total number of players may also factor into the matchmaking\nTo enter the event you must be on your server's mainland (not in burning lands!) and all your troops must be in your castle!\nYou enter the event by going to the Battle of Dragons tab in the event page (the horn icon) and tapping on the “Enter” button.\nIf you are not signed up, you cannot enter\n\nOnce in, the two alliances will battle over different buildings to gain points. The winning alliance will be the alliance with the most points at the end of the event.\nThe event lasts for 45 minutes\nEach building is set to a time delay and can only be attacked once a certain amount of time has passed\nYou can attack enemy castles and troops but gain no points for this\nIf ported, any troops in a building will be removed\nYou must hold a building for a total of one minute to occupy it",
+                    "inline": false
+                },
+                {
+                    "name": "Points",
+                    "value": "Based on what buildings you hold and how long you hold them\nSome buildings provide bonus points for first occupation\nBuildings:\nLevel 1 Gold Mine: 300 points per minute.\nLevel 2 Gold Mine: 600 points per minute.\nLevel 3 Gold Mine: 1500 points per minute.\nPortal: 900 points per minute.\nFortress: 900 points per minute.\nTemple: 1500 points per minute.\nDragon Summon Stone: 2100 points per minute.\nDragon Valley: 2400 points per minute.\nDragon Roars Terrace: 1800 points per minute.\nThe Spring of Rebirth: 1800 points per minute.\nSacred Dragon Palace: 9000 points per minute.\n\nFirst occupation bonuses:\nLevel 1 Gold Mine: 500 points.\nLevel 2 Gold Mine: 1000 points.\nLevel 3 Gold Mine: 2000 points.",
+                    "inline": false
+                },
+                {
+                    "name": "Building Buffs",
+                    "value": "Temple: +15% siege damage and defense.\nThe Spring of Rebirth: +250% recovery speed.\nDragon Roar Terrace: -60 seconds occupy time",
+                    "inline": false
+                },
+                {
+                    "name": "Building Opening Times",
+                    "value": "0 to 3 minutes: Prep time, this is when you port into the Dragon battle land\n3 minutes: Level 1 Gold Mines, Portals, and Fortresses open\n8 minutes: Temples, Spring of Rebirth, and Dragon Roars Terrace open\n13 minutes: Level 2 Gold Mines open\n18 minutes: Dragon Valleys and Dragon Summon Stones open\n23 minutes: Level 3 Gold Mines open\n28 minutes: Sacred Dragon Palace opens",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "Make sure to only sign up if you can make it, the number of players matters a lot!\nFocus on occupation of buildings, combat between castles gives no points and wastes resources\nFocus on high point buildings and buildings with buffs; fighting over level 1 gold mines once other buildings are open is pointless\nMake sure everyone gets 100,000 individual points for full rewards!",
+                    "inline": false
+                },
+                {
+                    "name": "Sign Ups",
+                    "value": "R5 and R4s can register the alliance for this event\nAlliance leaders will choose the time that the event takes place from the options of: 01:00, 07:00, 13:00 or 17:00 UTC\nOnce the time is selected you have till reset (0:00 UTC) to select which members will participate\nUp to 30 members can participate in the event\nYou must be added by R5 or an R4 to the event in order to join",
+                    "inline": false
+                }
+            ],
+
+            "image": {
+                "url": "https://i.imgur.com/g95lOUZ.jpeg"
+            }
+        }
+    ]
+}

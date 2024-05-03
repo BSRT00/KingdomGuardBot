@@ -1,0 +1,44 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Evil Spirit Invasion Information",
+            "description": "> **Duration**: 1 day\n> **Frequency**: Twice a week (Monday, Thursday)\n> **Alternate Names**: Spirit, ESI, Evil\n> **Event Type**: Alliance (against cross server)\n> **Note**: Reinforcing others takes away from their points. Teleporting your castle ends the event for you.",
+            "fields": [
+                {
+                    "name": "How It Works",
+                    "value": "Evil Spirit has a total of 20 waves with 2 bosses and 3 elite waves. It can be started at any time during the 24-hour window and will continue until every alliance member has been hit by the full 20 waves even if it crosses over reset.\n\nElite wave levels occur at levels 7, 14, and 17. In elite wave levels, the Spirits are stronger than the rest of the wave levels. Boss waves (attacks central/expedition fortress on home server and random players on BL) occur at levels 10 and 20.\n\nThe higher the level of difficulty selected, the more points earned.\n\nESI on server and Broken Land are the same; the only difference is that in Broken Land, there are no Central and Expedition Fortresses, so Wave 10 and Wave 20 Bosses attack a random castle.",
+                    "inline": false
+                },
+                {
+                    "name": "Points",
+                    "value": "Each castle has 2 lives. Once you get two red Xs, there will no longer be waves sent to your castle. Teleporting your castle to a new location or getting teleported by another player will automatically end the event for your castle.\n\nReinforcing other’s castles will take a fraction of their possible points and add it to your own.\n\nThe final points for the alliance will be an accumulation of each alliance member’s points. The final score will dictate whether the alliance can challenge a higher level of ESI. There is also a server and cross server leaderboard that provides additional rewards.",
+                    "inline": false
+                },
+                {
+                    "name": "Rewards",
+                    "value": "__Server Ranking Rewards__\n\n__Cross Server Ranking Rewards__",
+                    "inline": false
+                },
+                {
+                    "name": "ESI Calculator",
+                    "value": "Useful to help plan for ESI events.\n\n__How to Use__\n- Download a copy to your drive.\n- Select the level your alliance is running in the drop-down menu.\n- Input the distance between your hive and the ESI release site. This will calculate the estimated time till each elite unit hits your hive.\n- Enter information about your members who will need reinforcements, including their power rounded to the nearest billion.\n\n[ESI Calculator Spreadsheet](https://docs.google.com/spreadsheets/d/1ujLx1Kf2CFk8dIVNi91jUSP89X1LMTvAMQcmIcnrST8/edit?usp=sharing)",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "The Embassy team recommends using the charts and calculator to know the minimum power needed in each castle, and leave additional troops from stronger players to reinforce for the stronger waves. Alliances can start at a closer haunted castle during fighting to get the event done faster, but at a further one to allow more time for response when no fighting is occurring on server/BL.",
+                    "inline": false
+                }
+            ],
+            "image": {
+                "url": "https://i.imgur.com/Doten0H.jpeg"
+            }
+        }
+    ]
+}

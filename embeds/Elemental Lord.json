@@ -1,0 +1,31 @@
+{
+    "embeds": [
+        {
+            "color": 55039,
+            "author": {
+                "name": "Information by KG Embassy",
+                "url": "https://discord.gg/kgembassy",
+                "icon_url": "https://i.imgur.com/sGkpsZw.png"
+            },
+            "title": "Elemental Lord Information",
+            "description": "> **Duration**: 3 days\n> **Frequency**: Weekly (Saturday 0 UTC - Sunday 23:59 UTC)\n> **Alternate Names**: Elemental\n> **Event Type**: Player (against Server)\n",
+            "fields": [
+                {
+                    "name": "How It Works",
+                    "value": "There are four Elemental Lords (Archer, Fire, Ice, and Goblin). Each is located at the 4 corners of the Scorched Land around the throne on the server. Attack each Lord 5 times to accumulate points based on damage dealt.\n\nTo maximize damage, use the right troops to get the 30% bonus damage. Reconfigure troops if necessary.",
+                    "inline": false
+                },
+                {
+                    "name": "Rewards",
+                    "value": "There will be ranked rewards for each Elemental Lord within the server.",
+                    "inline": false
+                },
+                {
+                    "name": "Embassy Recommendation",
+                    "value": "Always do this event for the hero cards and heals.",
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}
